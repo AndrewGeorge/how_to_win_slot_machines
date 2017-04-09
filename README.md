@@ -1,5 +1,5 @@
 # how_to_win_slot_machines
-This is the code for "How to Do Win Slot Machines - Intro to Deep Learning #13' by Siraj Raval on YouTube
+This is my code for the code challenge "How to Do Win Slot Machines - Intro to Deep Learning #13' by Siraj Raval on YouTube
 
 # Coding Challenge - Due Date - Thursday, April 13th at 12 PM PST
 
