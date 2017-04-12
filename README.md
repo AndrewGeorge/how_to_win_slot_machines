@@ -13,6 +13,8 @@ I extrapolated the idea of slot machines to the stock market. It's basically a s
 
 * tensorflow (https://www.tensorflow.org/install/)
 * numpy
+* pandas - for loading in stock data
+* matplotlib - for graphhing
 
 ## Usage
 
