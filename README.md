@@ -7,7 +7,7 @@ The coding challenge for this video is to use multiple slot machines instead of 
 
 ## Overview
 
-This is the code for [this](https://www.youtube.com/watch?v=AIeWLTUYLZQ) video on Youtube by Siraj Raval as part of the Udacity Intro to Deep Learning nanodegree. This code implements a technique called [policy gradients](http://www.scholarpedia.org/article/Policy_gradient_methods) to solve the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit). We use only 1 slot machine with 4 arms in this code and use an epsilon greedy policy to help select the best actions. Our agent is a simple 1 layer neural network built in tensorflow. 
+I extrapolated the idea of slot machines to the stock market. It's basically a slot machine for rich folks, amirite? I built several different trading 'bandit bots' which each have a strategy that they follow. Since the 'brains' of the bots are irregular (compared to a tensor of data for example), they do not lend themselves easily to neural networks. Reinforcement learning is great for this, because it does not require a loss function, only some reward criteria. We can test each of the bots and using the multi-armed bandit algorithm, determine which is the best-performing. 
 
 ## Dependencies
 
