@@ -24,5 +24,5 @@ Install jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) if 
 
 ## Credits
 
-The credits for this code go to [awjuliani](https://github.com/awjuliani). I've merely added a wrapper to get people started.
+The credits for the base code go to [awjuliani](https://github.com/awjuliani). Siraj added a wrapper to get people started. I built the bots and the updated loss function. 
 
